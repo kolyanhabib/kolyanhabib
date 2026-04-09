@@ -1,6 +1,7 @@
 <!-- Banner -->
-<img width="1942" height="809" alt="Kolyan Habib_ frontend developer portfolio" src="https://github.com/user-attachments/assets/e88f42d6-9868-4bd3-90f8-9f8fa6f9ce49" />
-
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/e88f42d6-9868-4bd3-90f8-9f8fa6f9ce49" />
+</p>
 
 <h1 align="center">Hey 👋, It's Kolyan Habib</h1>
 <h3 align="center">🚀 Passionate Frontend Developer | React Enthusiast</h3>
@@ -49,6 +50,10 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolyanhabib&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kolyanhabib&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
