@@ -1,7 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/580334fe-946f-46b8-a0b3-561a701fe1b2" />
-</p>
+<img width="1942" height="809" alt="Kolyan Habib_ frontend developer portfolio" src="https://github.com/user-attachments/assets/e88f42d6-9868-4bd3-90f8-9f8fa6f9ce49" />
+
 
 <h1 align="center">Hey 👋, It's Kolyan Habib</h1>
 <h3 align="center">🚀 Passionate Frontend Developer | React Enthusiast</h3>
