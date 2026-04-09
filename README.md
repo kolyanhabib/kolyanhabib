@@ -1,16 +1,81 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/580334fe-946f-46b8-a0b3-561a701fe1b2" />
+</p>
 
-<!--
-**kolyanhabib/kolyanhabib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋, It's Kolyan Habib</h1>
+<h3 align="center">🚀 Passionate Frontend Developer | React Enthusiast</h3>
 
-Here are some ideas to get you started:
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+learning!;Always+improving!;Building+modern+UI!&center=true&size=30">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  🌍 From Bangladesh <br/>
+  💻 Passionate about building modern web experiences <br/>
+  🎯 Focused on clean UI & responsive design
+</p>
+
+---
+
+## ⭐ Languages
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=js,html,css" /> 
+</p>
+
+---
+
+## ⚡ Technologies & Frameworks
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nextjs" /> 
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolyanhabib&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolyanhabib&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" width="100%" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:kolyanhabib@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/kolyanhabib">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://facebook.com/kolyanhabib">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kolyanhabib&label=Profile%20views&color=0e75b6&style=flat" /> 
+</p>
