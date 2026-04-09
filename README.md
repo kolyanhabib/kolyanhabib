@@ -52,9 +52,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kolyanhabib&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kolyanhabib&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+
 
 ---
 
