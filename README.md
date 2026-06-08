@@ -86,29 +86,32 @@ Frontend Developer • React.js • Next.js • MERN Stack
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
+  <img 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolyanhabib&theme=tokyonight"
   />
+</p>
 
-  <img
-    height="170"
+<p align="center">
+  <img 
+    width="100%"
     src="https://streak-stats.demolab.com?user=kolyanhabib&theme=tokyonight&hide_border=true"
   />
 </p>
 
 <p align="center">
-  <img
-    height="170"
+  <img 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolyanhabib&theme=tokyonight"
   />
+</p>
 
-  <img
-    height="170"
+<p align="center">
+  <img 
+    width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolyanhabib&theme=tokyonight"
   />
 </p>
