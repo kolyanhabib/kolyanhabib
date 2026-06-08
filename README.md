@@ -19,12 +19,16 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ## 👨‍💻 About Me
 
-- 🚀 Junior Frontend Developer from Bangladesh
-- 💻 Building responsive MERN stack applications
-- ⚛️ Focused on React.js & Next.js
-- 🎯 Interested in clean UI and scalable apps
-- 📚 Currently learning backend architecture
-- 🔥 Passionate about modern frontend development
+<p align="center">
+
+🚀 Junior Frontend Developer from Bangladesh <br>
+💻 Building responsive MERN stack applications <br>
+⚛️ Focused on React.js & Next.js <br>
+🎯 Interested in clean UI and scalable apps <br>
+📚 Currently learning backend architecture <br>
+🔥 Passionate about modern frontend development
+
+</p>
 
 ---
 
@@ -32,7 +36,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,7 +46,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ### ⚛️ Frontend
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -53,7 +57,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ### 🔧 Backend
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
@@ -64,7 +68,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ### 🗄️ Database
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
@@ -72,7 +76,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 
 ### ⚙️ Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -82,6 +86,7 @@ Frontend Developer • React.js • Next.js • MERN Stack
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -111,7 +116,9 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 />
 
 </p>
-----
+
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
@@ -125,7 +132,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:kolyanhabib@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -147,7 +154,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 
 ## 👀 Profile Views
 
-<p align="left">
+<p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=kolyanhabib&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
   />
@@ -156,5 +163,5 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 ---
 
 <p align="center">
-  ⭐ "Don't just learn to code — build things that matter."
+  ✨ “Code with consistency. Build with purpose.” ✨
 </p>
