@@ -90,33 +90,28 @@ Frontend Developer • React.js • Next.js • MERN Stack
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolyanhabib&theme=tokyonight"
+  />
 
-<img
-height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kolyanhabib&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://streak-stats.demolab.com?user=kolyanhabib&theme=tokyonight&hide_border=true"
-/>
-
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=kolyanhabib&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolyanhabib&theme=tokyonight"
+  />
 
-<img
-height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolyanhabib&theme=tokyonight"
-/>
-
-<img
-height="170"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolyanhabib&theme=tokyonight"
-/>
-
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolyanhabib&theme=tokyonight"
+  />
 </p>
-
 ---
 
 ## 📈 Activity Graph
