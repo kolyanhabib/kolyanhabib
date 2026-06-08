@@ -1,111 +1,96 @@
-<!-- Banner -->
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/e88f42d6-9868-4bd3-90f8-9f8fa6f9ce49" />
-</p>
-
+<!-- HEADER -->
 <h1 align="center">Hey 👋, I'm Kolyan Habib</h1>
 
 <h3 align="center">
-Frontend Developer focused on building responsive, modern, and user-friendly web applications using React.js, Next.js, and the MERN stack.
+🚀 Junior Frontend Developer | React.js Enthusiast | MERN Stack Learner
 </h3>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps&center=true&size=28">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React.js+Developer;Next.js+Learner;Building+Modern+Web+Apps;Always+Learning+New+Things&center=true&size=26">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🌍 From Bangladesh
-- 💻 Passionate about frontend and MERN stack development
-- 🚀 Focused on building clean and responsive web applications
-- 📚 Currently learning advanced React and backend architecture
-- 🎯 Goal: Become a professional full-stack developer
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React Patterns
-- Next.js App Router
-- Backend Architecture
-- REST API Optimization
-- Clean UI/UX Design
+✨ Passionate frontend developer from Bangladesh  
+💻 Focused on building modern and responsive web applications  
+🚀 Skilled in React.js, Next.js, JavaScript, Tailwind CSS, Node.js, Express.js & MongoDB  
+🎯 Interested in clean UI, reusable components & full-stack MERN applications  
+📚 Currently learning advanced frontend architecture and backend development  
+🔥 Love building real-world projects and improving problem-solving skills  
 
 ---
 
-## ⭐ Languages
+# 🛠️ Tech Stack
 
-<p align="center">
+## 💻 Languages
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ---
 
-## ⚡ Technologies & Frameworks
+## ⚛️ Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+</p>
+
+---
+
+## 🔧 Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Idea Vault
-A modern MERN stack idea sharing platform with authentication, CRUD operations, category filtering, and responsive UI.
-
-🔗 Live Demo: https://kolyanhabib.vercel.app/  
-🔗 GitHub: https://github.com/kolyanhabib
-
----
-
-### 🔹 Keen Keeper
-Interactive friendship management dashboard with charts, analytics, and activity tracking features.
-
-🔗 GitHub: https://github.com/kolyanhabib
-
----
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kolyanhabib&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kolyanhabib&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=kolyanhabib&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://streak-stats.demolab.com?user=kolyanhabib&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolyanhabib&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolyanhabib&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kolyanhabib&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=70a5fd" width="100%"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="mailto:kolyanhabib@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -117,18 +102,22 @@ Interactive friendship management dashboard with charts, analytics, and activity
   <a href="https://kolyanhabib.vercel.app/">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
+
+  <a href="https://github.com/kolyanhabib">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=kolyanhabib&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Always learning, building, and improving.
+  ⭐ "Don't just learn to code — build things that matter."
 </p>
